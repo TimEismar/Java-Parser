@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Type
+comment1.params=ttyp\ tvalue
+comment1.target=Type(java.lang.String,\ char)
+comment2.params=
+comment2.target=java.lang.String\ getTyp()
+comment3.params=
+comment3.target=char\ getValue()
+numComments=4

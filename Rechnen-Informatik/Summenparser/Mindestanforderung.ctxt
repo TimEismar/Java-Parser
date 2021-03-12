@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Mindestanforderung
+comment1.params=
+comment1.target=Mindestanforderung()
+comment2.params=term
+comment2.target=void\ checker(java.lang.String)
+comment3.params=term
+comment3.target=char[]\ wordToArray(java.lang.String)
+comment4.params=arT
+comment4.target=boolean\ pruefeTerm(char[])
+numComments=5

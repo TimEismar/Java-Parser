@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=IntegerParser
+comment1.params=
+comment1.target=IntegerParser()
+comment2.params=term
+comment2.target=void\ parse(java.lang.String)
+comment3.params=tList\ s
+comment3.target=boolean\ scanner(List,\ java.lang.String)
+comment4.params=str
+comment4.target=List\ strToList(java.lang.String)
+numComments=5
