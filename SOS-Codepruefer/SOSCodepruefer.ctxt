@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SOSCodepruefer
+comment1.params=
+comment1.target=SOSCodepruefer()
+comment2.params=eingabe
+comment2.target=void\ zustandWechseln(char)
+comment3.params=text
+comment3.target=boolean\ wortUntersuchen(java.lang.String)
+numComments=4
